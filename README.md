@@ -3,8 +3,19 @@
 </div>
 
 ### 💫 About Me:
-Hello, I'm Xvenn-03 with the real name KEVIN ABIL H. In the future, I will upload the python script that I made on this github, and I also want to say that this github account was created when I was 13, so I'm sorry if there is a python script that fails, thank you for reading the bio, remember to stay careful.
-
+```python
+class WanzXploit:
+    def __init__(self):
+        self.name = "Wanz Xploit"
+        self.location = "Bali, Indonesia"
+        self.work = "Security Researcher & Developer"
+        self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
+        self.gaming = ["PS2 Classics", "MLBB", "COC"]
+        self.life_motto = "Simple tools, massive impact"
+    
+    def get_daily_routine(self):
+        return ["Code", "Hack", "Learn", "Game", "Repeat"]
+```
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
 
