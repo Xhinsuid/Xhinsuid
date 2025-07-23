@@ -29,9 +29,9 @@ class Xvenn-03:
 ## 🌟 Projects
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=shadow_green)](https://github.com/Xvenn-03/GhostSQLX)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&color=0:3AAFA9,100:2E7D32)](https://github.com/Xvenn-03/WeakDetect)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=gotham)](https://github.com/Xvenn-03/GhostSQLX)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=gotham)](https://github.com/Xvenn-03/WeakDetect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=gotham)](https://github.com/Xvenn-03)
 
 ---
 </div>
