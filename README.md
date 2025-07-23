@@ -16,7 +16,17 @@ class Xvenn-03:
     def get_daily_routine(self):
         return ["School", "Game", "Learn", "Repeat"]
 ```
+## 🌟 Featured Projects
 
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+
+➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
+
+</div>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xvenn-03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xvenn-03&theme=github_dark&hide_border=false)<br/>
@@ -38,17 +48,7 @@ System:
   os: "Android 14"
   environment: ["Kali Linux"]
 ```
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
-
-➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
-
-</div>
 
 ## 🛠️ Tech Arsenal
 <div align="center">
