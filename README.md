@@ -1,6 +1,7 @@
 ![Xvenn-03](github-header-image.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nihao+Wo+Jiao+Xvenn-03;Hello+My+Name+Xvenn-03!&center=true&color=00FF00)](https://git.io/typing-svg)
+
 ### 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nihao+Wo+Jiao+Xvenn-03;Hello+My+Name+Xvenn-03!&center=true&color=00FF00)](https://git.io/typing-svg)
 Hello, I'm Xvenn-03 with the real name KEVIN ABIL H. In the future, I will upload the python script that I made on this github, and I also want to say that this github account was created when I was 13, so I'm sorry if there is a python script that fails, thank you for reading the bio, remember to stay careful.
 
 ### 🌐 Socials:
