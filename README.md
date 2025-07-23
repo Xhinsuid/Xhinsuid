@@ -17,7 +17,7 @@ class Xvenn-03:
         return ["School", "Game", "Learn", "Repeat"]
 ```
 ### 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
+
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -28,17 +28,14 @@ class Xvenn-03:
 [![](https://visitcount.itsvg.in/api?id=Xvenn-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
-## 🛠️ Tech Arsenal
 
+## 🛠️ Tech Arsenal
 <div align="center">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Development Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -49,18 +46,14 @@ class Xvenn-03:
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wanzxploit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
-[![GPG Key](https://img.shields.io/badge/GPG_Key-333333?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/wanzxploit.gpg)
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xvenn03)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xvenn___?igsh=aGRtcjRzZHVkbGpx)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
 </div>
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Visitors&edge_flat=false)
 
 [![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
