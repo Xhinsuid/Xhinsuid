@@ -48,10 +48,6 @@ class Xvenn-03:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
 </div>
 
----
-
-<div align="center">
-
 [![GitHub Followers](https://img.shields.io/github/followers/Xvenn-03?style=social)](https://github.com/Xvenn-03?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Xvenn-03?style=social)](https://github.com/Xvenn-03)
 ###
