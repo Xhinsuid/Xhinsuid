@@ -24,7 +24,7 @@ class Xvenn-03:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
 
-➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
+➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
 
 </div>
 
