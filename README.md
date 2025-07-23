@@ -18,16 +18,6 @@ class Xvenn-03:
 ```
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=radical)](https://github.com/Xvenn-03/GhostSQLX)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
-
-➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
-
-</div>
-
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xvenn-03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xvenn-03&theme=github_dark&hide_border=false)<br/>
@@ -46,6 +36,17 @@ System:
   os: "Android 14"
   environment: ["Kali Linux"]
 ```
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=radical)](https://github.com/Xvenn-03/GhostSQLX)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
+
+➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
+
+</div>
+
 <img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ Tech Arsenal
