@@ -1,10 +1,7 @@
 ![Xvenn-03](github-header-image.png)
-<p align="center">
-  <img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif">
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Im+Mr.X+a+Blackhat+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Nihao+I'm+Xvenn-03+a+software enginering" alt="Typing SVG" />
   </a>
 </div>
 
