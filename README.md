@@ -16,11 +16,7 @@ class Xvenn-03:
     def get_daily_routine(self):
         return ["School", "Game", "Learn", "Repeat"]
 ```
-### 🌐 Socials:
 
-
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xvenn-03&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xvenn-03&theme=github_dark&hide_border=false)<br/>
@@ -42,6 +38,7 @@ class Xvenn-03:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
+
 ## 🤝 Connect With Me
 
 <div align="center">
