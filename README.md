@@ -52,8 +52,6 @@ class Xvenn-03:
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
+[![GitHub Followers](https://img.shields.io/github/followers/Xvenn-03?style=social)](https://github.com/Xvenn-03?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Xvenn-03?style=social)](https://github.com/Xvenn-03)
 ###
-### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
