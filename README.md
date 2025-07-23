@@ -20,9 +20,9 @@ class Xvenn-03:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=radical)](https://github.com/Xvenn-03/GhostSQLX)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=radical)](https://github.com/Xvenn-03/WeakDetect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=Profile&theme=radical)](https://github.com/Xvenn-03)
 
 ➡️ [View All Projects](https://github.com/Xvenn-03?tab=repositories)
 
