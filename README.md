@@ -10,7 +10,7 @@ class Xvenn-03:
         self.location = "East Java, Indonesia"
         self.work = "Nothing"
         self.interests = ["Cybersecurity", "GNU/Linux"]
-        self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "KABOOM"]
+        self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "ROBLOX"]
         self.life_motto = "never be afraid to move forward"
     
     def get_daily_routine(self):
