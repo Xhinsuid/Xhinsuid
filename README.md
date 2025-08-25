@@ -9,7 +9,7 @@ class Xvenn-03:
         self.name = "Xvenn-03"
         self.location = "East Java, Indonesia"
         self.work = "Nothing"
-        self.interests = ["Cybersecurity", "GNU/Linux"]
+        self.interests = ["Cybersecurity", "GNU/Linux", "Python"]
         self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "ROBLOX"]
         self.life_motto = "never be afraid to move forward"
     
@@ -48,7 +48,7 @@ System:
   device: "Samsung A14 4g"
   processor: "Exynos 3830"
   os: "Android 14"
-  environment: ["Kali Linux"]
+  environment: ["Kali Linux", "Debian"]
 ```
 
 <img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
