@@ -30,7 +30,7 @@ class Xvenn-03:
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=GhostSQLX&theme=gotham)](https://github.com/Xvenn-03/GhostSQLX)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=WeakDetect&theme=gotham)](https://github.com/Xvenn-03/WeakDetect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=PASENC&theme=gotham)](https://github.com/Xvenn-03/PASENC)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvenn-03&repo=StreamFlow&theme=gotham)](https://github.com/Xvenn-03/StreamFlow)
 
 ---
