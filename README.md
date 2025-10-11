@@ -72,8 +72,8 @@ System:
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xvenn03)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xvenn___?igsh=aGRtcjRzZHVkbGpx)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xvenn___?igsh=aGRtcjRzZHVkbGpx)
 </div>
 
 [![GitHub Followers](https://img.shields.io/github/followers/Xvenn-03?style=social)](https://github.com/Xvenn-03?tab=followers)
