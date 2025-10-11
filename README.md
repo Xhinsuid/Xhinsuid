@@ -8,7 +8,7 @@ class Xvenn-03:
     def __init__(self):
         self.name = "Xvenn-03"
         self.location = "East Java, Indonesia"
-        self.work = "Nothing"
+        self.status = "Student"
         self.interests = ["Cybersecurity", "GNU/Linux", "Python"]
         self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "ROBLOX"]
         self.life_motto = "never be afraid to move forward"
