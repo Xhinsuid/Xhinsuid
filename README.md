@@ -29,7 +29,7 @@ class Xhinsu404:
 ## 🌟 Top Projects
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu404&repo=GhostSQLX&theme=gotham)](https://github.com/Xhinsu404/GhostSQLX)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu&repo=GhostSQLX&theme=gotham)](https://github.com/Xhinsu404/GhostSQLX)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu404&repo=PASENC&theme=gotham)](https://github.com/Xhinsu404/PASENC)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Xhinsu404&repo=StreamFlow&theme=gotham)](https://github.com/Xhinsu404/StreamFlow)
 
