@@ -26,6 +26,7 @@ class Xhinsu404:
 
 ---
 </div>
+
 ## 🎯 Current Setup
 
 ```yaml
