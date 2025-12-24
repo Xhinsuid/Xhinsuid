@@ -10,7 +10,7 @@ class Xhinsu404:
         self.location = "East Java, Indonesia"
         self.status = "Student"
         self.interests = ["Cybersecurity", "GNU/Linux", "Python"]
-        self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "ROBLOX"]
+        self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "ROBLOX", "CrossFire"]
         self.life_motto = "never be afraid to move forward"
     
     def get_daily_routine(self):
